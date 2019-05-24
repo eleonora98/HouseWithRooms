@@ -1,0 +1,14 @@
+C:\Users\Eleonora Peneva\source\repos\HouseWithRooms\HouseWithRooms\bin\Debug\HouseWithRooms.exe.config
+C:\Users\Eleonora Peneva\source\repos\HouseWithRooms\HouseWithRooms\bin\Debug\HouseWithRooms.exe
+C:\Users\Eleonora Peneva\source\repos\HouseWithRooms\HouseWithRooms\bin\Debug\HouseWithRooms.pdb
+C:\Users\Eleonora Peneva\source\repos\HouseWithRooms\HouseWithRooms\obj\Debug\HouseWithRooms.csprojAssemblyReference.cache
+C:\Users\Eleonora Peneva\source\repos\HouseWithRooms\HouseWithRooms\obj\Debug\HouseWithRooms.csproj.CoreCompileInputs.cache
+C:\Users\Eleonora Peneva\source\repos\HouseWithRooms\HouseWithRooms\obj\Debug\HouseWithRooms.exe
+C:\Users\Eleonora Peneva\source\repos\HouseWithRooms\HouseWithRooms\obj\Debug\HouseWithRooms.pdb
+C:\Users\Eleonora Peneva\Desktop\за гит\HouseWithRooms\HouseWithRooms\bin\Debug\HouseWithRooms.exe.config
+C:\Users\Eleonora Peneva\Desktop\за гит\HouseWithRooms\HouseWithRooms\bin\Debug\HouseWithRooms.exe
+C:\Users\Eleonora Peneva\Desktop\за гит\HouseWithRooms\HouseWithRooms\bin\Debug\HouseWithRooms.pdb
+C:\Users\Eleonora Peneva\Desktop\за гит\HouseWithRooms\HouseWithRooms\obj\Debug\HouseWithRooms.csprojAssemblyReference.cache
+C:\Users\Eleonora Peneva\Desktop\за гит\HouseWithRooms\HouseWithRooms\obj\Debug\HouseWithRooms.csproj.CoreCompileInputs.cache
+C:\Users\Eleonora Peneva\Desktop\за гит\HouseWithRooms\HouseWithRooms\obj\Debug\HouseWithRooms.exe
+C:\Users\Eleonora Peneva\Desktop\за гит\HouseWithRooms\HouseWithRooms\obj\Debug\HouseWithRooms.pdb
